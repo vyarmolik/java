@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.IntFunction;
 
+import model.Apple;
+import model.Fruit;
+import model.Orange;
+
 public final class FruitFactory {
 	
 	private static final Map<String, IntFunction<Fruit>> FACTORY_METHODS = new HashMap<>();

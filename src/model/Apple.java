@@ -1,4 +1,4 @@
-package lambda;
+package model;
 
 public final class Apple extends Fruit {
 	

@@ -5,6 +5,10 @@ import static java.util.Comparator.comparing;
 import java.util.Arrays;
 import java.util.List;
 
+import model.Apple;
+import model.Fruit;
+import model.Orange;
+
 public class ComparatorTest {
 	public static void main(String[] args) {
 		List<Fruit> fruits = Arrays.asList(

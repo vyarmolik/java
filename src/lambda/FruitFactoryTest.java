@@ -1,5 +1,7 @@
 package lambda;
 
+import model.Fruit;
+
 public class FruitFactoryTest {
 
 	public static void main(String[] args) {
